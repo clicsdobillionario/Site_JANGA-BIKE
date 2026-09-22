@@ -1,0 +1,336 @@
+- generic [ref=f2e3]:
+  - banner [ref=f2e4]:
+    - generic [ref=f2e6]:
+      - link "Janga Bike JANGA BIKE Loja de Bicicleta" [ref=f2e7] [cursor=pointer]:
+        - /url: "#inicio"
+        - img "Janga Bike" [ref=f2e8]
+        - generic [ref=f2e9]:
+          - generic [ref=f2e10]: JANGA BIKE
+          - generic [ref=f2e11]: Loja de Bicicleta
+      - navigation [ref=f2e12]:
+        - link "Início" [ref=f2e13] [cursor=pointer]:
+          - /url: "#inicio"
+        - link "Produtos" [ref=f2e14] [cursor=pointer]:
+          - /url: "#produtos"
+        - link "Serviços" [ref=f2e15] [cursor=pointer]:
+          - /url: "#servicos"
+        - link "Sobre" [ref=f2e16] [cursor=pointer]:
+          - /url: "#sobre"
+        - link "Avaliações" [ref=f2e17] [cursor=pointer]:
+          - /url: "#avaliacoes"
+        - link "Contato" [ref=f2e18] [cursor=pointer]:
+          - /url: "#contato"
+      - link "Chamar no WhatsApp" [ref=f2e20] [cursor=pointer]:
+        - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20gostaria%20de%20falar%20com%20a%20Janga%20Bike.
+  - main [ref=f2e23]:
+    - generic [ref=f2e24]:
+      - img "Mountain bike em trilha" [ref=f2e26]
+      - generic [ref=f2e32]:
+        - generic [ref=f2e33]: BICICLETARIA EM PAULISTA — PE
+        - heading "SUA BIKE, SEU JEITO DE IR MAIS LONGE" [level=1] [ref=f2e38]: SUA BIKE,SEU JEITODE IR MAIS LONGE
+        - paragraph [ref=f2e39]: Preço, Variedade e Qualidade. Bicicletas, peças, acessórios e serviço de manutenção com quem entende de verdade — no coração do Janga.
+        - generic [ref=f2e52]:
+          - generic [ref=f2e53]: 4.3/5
+          - text: · 214 avaliações no Google
+        - generic [ref=f2e54]:
+          - link "Falar no WhatsApp" [ref=f2e55] [cursor=pointer]:
+            - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Janga%20Bike%20e%20gostaria%20de%20falar%20sobre%20bicicletas.
+          - link "Ver produtos" [ref=f2e58] [cursor=pointer]:
+            - /url: "#produtos"
+      - generic [ref=f2e61]: Role para descobrir
+    - generic [ref=f2e69]:
+      - generic [ref=f2e70]:
+        - img "Loja de bicicletas Janga Bike" [ref=f2e72]
+        - generic [ref=f2e82]:
+          - paragraph [ref=f2e83]: 5.600+
+          - paragraph [ref=f2e84]: seguidores no Instagram
+        - generic [ref=f2e90]:
+          - paragraph [ref=f2e91]: 4.3/5
+          - paragraph [ref=f2e92]: 214 avaliações
+      - generic [ref=f2e93]:
+        - generic [ref=f2e94]: SOBRE A LOJA
+        - heading "NOSSA HISTÓRIA É PEDALAR COM VOCÊ" [level=2] [ref=f2e96]
+        - paragraph [ref=f2e97]:
+          - text: "A Janga Bike nasceu no coração do Janga, em Paulista-PE, com uma missão simples: levar preço, variedade e qualidade para quem ama pedalar. Somos uma bicicletaria de bairro que virou referência na região, com mais de"
+          - generic [ref=f2e98]: 5.600+ seguidores
+          - text: no Instagram e
+          - generic [ref=f2e99]: 214 avaliações
+          - text: positivas no Google.
+        - paragraph [ref=f2e100]: Trabalhamos com as melhores marcas do mercado — Oggi, Caloi, Athor, Hupi e Absolute — e oferecemos serviço completo de manutenção, revisão e montagem. Aqui você encontra a bike certa para o seu jeito de andar.
+        - generic [ref=f2e101]:
+          - generic [ref=f2e107]:
+            - heading "Melhor preço" [level=3] [ref=f2e108]
+            - paragraph [ref=f2e109]: Preço justo em bikes, peças e acessórios — sempre.
+          - generic [ref=f2e117]:
+            - heading "Variedade enorme" [level=3] [ref=f2e118]
+            - paragraph [ref=f2e119]: Bikes de estrada, mountain, infantis e muito mais.
+          - generic [ref=f2e125]:
+            - heading "Qualidade garantida" [level=3] [ref=f2e126]
+            - paragraph [ref=f2e127]: Marcas confiáveis e serviço técnico de excelência.
+        - paragraph [ref=f2e132]: Av. Dr. Cláudio José Gueiros Leite, 2701 - Janga, Paulista - PE, 53437-000
+    - generic [ref=f2e135]:
+      - generic [ref=f2e136]:
+        - generic [ref=f2e137]: PRODUTOS
+        - heading "CATEGORIAS DE PRODUTOS" [level=2] [ref=f2e139]
+        - paragraph [ref=f2e140]: Encontre a bike perfeita ou o acessório ideal. Clique e fale com a gente no WhatsApp.
+      - generic [ref=f2e141]:
+        - link "Bikes para Estrada Bikes para Estrada Velocidade e desempenho para quem ama pedalar no asfalto. Ver opções" [ref=f2e142] [cursor=pointer]:
+          - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Tenho%20interesse%20em%20bikes%20de%20estrada.%20Pode%20me%20ajudar%3F
+          - img "Bikes para Estrada" [ref=f2e144]
+          - generic [ref=f2e146]:
+            - heading "Bikes para Estrada" [level=3] [ref=f2e147]
+            - paragraph [ref=f2e148]: Velocidade e desempenho para quem ama pedalar no asfalto.
+            - generic [ref=f2e149]: Ver opções
+        - link "Bikes para Montanhas Bikes para Montanhas Aventura e resistência para trilhas e terrenos irregulares. Quero saber mais" [ref=f2e155] [cursor=pointer]:
+          - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Tenho%20interesse%20em%20mountain%20bikes.%20Pode%20me%20ajudar%3F
+          - img "Bikes para Montanhas" [ref=f2e157]
+          - generic [ref=f2e159]:
+            - heading "Bikes para Montanhas" [level=3] [ref=f2e160]
+            - paragraph [ref=f2e161]: Aventura e resistência para trilhas e terrenos irregulares.
+            - generic [ref=f2e162]: Quero saber mais
+        - link "Bikes Infantis Bikes Infantis Diversão e segurança para os pequenos ciclistas. Ver modelos" [ref=f2e168] [cursor=pointer]:
+          - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Tenho%20interesse%20em%20bikes%20infantis.%20Pode%20me%20ajudar%3F
+          - img "Bikes Infantis" [ref=f2e170]
+          - generic [ref=f2e172]:
+            - heading "Bikes Infantis" [level=3] [ref=f2e173]
+            - paragraph [ref=f2e174]: Diversão e segurança para os pequenos ciclistas.
+            - generic [ref=f2e175]: Ver modelos
+        - link "Peças e Componentes Peças e Componentes Tudo para manter sua bike rodando lisa e com segurança. Consultar peças" [ref=f2e181] [cursor=pointer]:
+          - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Tenho%20interesse%20em%20pe%C3%A7as%20e%20componentes.%20Pode%20me%20ajudar%3F
+          - img "Peças e Componentes" [ref=f2e183]
+          - generic [ref=f2e185]:
+            - heading "Peças e Componentes" [level=3] [ref=f2e186]
+            - paragraph [ref=f2e187]: Tudo para manter sua bike rodando lisa e com segurança.
+            - generic [ref=f2e188]: Consultar peças
+        - link "Acessórios Acessórios Capacetes, luzes, garrafas e tudo para pedalar com estilo. Ver acessórios" [ref=f2e194] [cursor=pointer]:
+          - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Tenho%20interesse%20em%20acess%C3%B3rios.%20Pode%20me%20ajudar%3F
+          - img "Acessórios" [ref=f2e196]
+          - generic [ref=f2e198]:
+            - heading "Acessórios" [level=3] [ref=f2e199]
+            - paragraph [ref=f2e200]: Capacetes, luzes, garrafas e tudo para pedalar com estilo.
+            - generic [ref=f2e201]: Ver acessórios
+        - generic [ref=f2e207]:
+          - paragraph [ref=f2e208]: Não encontrou o que procura?
+          - link "Falar com a loja" [ref=f2e209] [cursor=pointer]:
+            - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Estou%20procurando%20um%20produto%20que%20n%C3%A3o%20vi%20no%20site.%20Pode%20me%20ajudar%3F
+    - generic [ref=f2e215]:
+      - generic [ref=f2e216]:
+        - img "Oficina de bicicletas Janga Bike" [ref=f2e218]
+        - paragraph [ref=f2e221]: Serviço técnico especializado. Equipamentos profissionais e mecânicos experientes para cuidar da sua bike.
+      - generic [ref=f2e222]:
+        - generic [ref=f2e223]: SERVIÇOS
+        - heading "CUIDAMOS DA SUA BIKE" [level=2] [ref=f2e225]
+        - paragraph [ref=f2e226]: Manutenção, revisão e montagem com quem entende. Agende pelo WhatsApp.
+        - generic [ref=f2e227]:
+          - generic [ref=f2e232]:
+            - heading "Manutenção" [level=3] [ref=f2e233]
+            - paragraph [ref=f2e234]: Ajustes de câmbio, freio, pneu e corrente para sua bike rodar perfeita.
+            - link "Agendar serviço" [ref=f2e235] [cursor=pointer]:
+              - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Preciso%20de%20manuten%C3%A7%C3%A3o%20na%20minha%20bike.%20Como%20funciona%3F
+          - generic [ref=f2e246]:
+            - heading "Revisão Completa" [level=3] [ref=f2e247]
+            - paragraph [ref=f2e248]: Diagnóstico completo da sua bicicleta, do quadro aos freios.
+            - link "Agendar serviço" [ref=f2e249] [cursor=pointer]:
+              - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Quero%20agendar%20uma%20revis%C3%A3o%20completa.%20Que%20hor%C3%A1rios%20t%C3%AAm%20dispon%C3%ADvel%3F
+          - generic [ref=f2e259]:
+            - heading "Montagem" [level=3] [ref=f2e260]
+            - paragraph [ref=f2e261]: Montagem profissional de bikes novas e personalizadas.
+            - link "Agendar serviço" [ref=f2e262] [cursor=pointer]:
+              - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Preciso%20de%20montagem%20de%20bike.%20Pode%20me%20passar%20informa%C3%A7%C3%B5es%3F
+    - generic [ref=f2e267]:
+      - generic [ref=f2e269]:
+        - generic [ref=f2e270]: PARCEIROS
+        - heading "MARCAS QUE CONFIAM NA GENTE" [level=2] [ref=f2e272]
+      - generic [ref=f2e274]:
+        - generic [ref=f2e275]:
+          - img "Oggi Bikes"
+        - generic [ref=f2e276]:
+          - img "Caloi"
+        - generic [ref=f2e277]:
+          - img "Athor Bikes"
+        - generic [ref=f2e278]:
+          - img "Hupi Bikes"
+        - generic [ref=f2e279]:
+          - img "Absolute"
+        - generic [ref=f2e280]:
+          - img "Oggi Bikes"
+        - generic [ref=f2e281]:
+          - img "Caloi"
+        - generic [ref=f2e282]:
+          - img "Athor Bikes"
+        - generic [ref=f2e283]:
+          - img "Hupi Bikes"
+        - generic [ref=f2e284]:
+          - img "Absolute"
+    - generic [ref=f2e286]:
+      - generic [ref=f2e287]:
+        - generic [ref=f2e288]:
+          - generic [ref=f2e289]: GALERIA
+          - heading "O MUNDO DA JANGA BIKE" [level=2] [ref=f2e291]
+        - link "@jangabike →" [ref=f2e292] [cursor=pointer]:
+          - /url: https://www.instagram.com/jangabike
+          - generic [ref=f2e296]: "@jangabike"
+          - generic [ref=f2e297]: →
+      - generic [ref=f2e298]:
+        - generic [ref=f2e299]: "@jangabike"
+        - generic [ref=f2e307]:
+          - img "Ciclista urbano pedalando" [ref=f2e308]
+          - generic [ref=f2e310]: "@jangabike"
+        - generic [ref=f2e315]:
+          - img "Bicicletas estacionadas com arte urbana" [ref=f2e316]
+          - generic [ref=f2e318]: "@jangabike"
+        - generic [ref=f2e323]:
+          - img "Bicicletas coloridas com cestos" [ref=f2e324]
+          - generic [ref=f2e326]: "@jangabike"
+        - generic [ref=f2e331]:
+          - img "Ciclista na cidade" [ref=f2e332]
+          - generic [ref=f2e334]: "@jangabike"
+        - generic [ref=f2e339]:
+          - img "Bicicletas na parede vermelha" [ref=f2e340]
+          - generic [ref=f2e342]: "@jangabike"
+        - generic [ref=f2e347]:
+          - img "Ciclista em rua urbana" [ref=f2e348]
+          - generic [ref=f2e350]: "@jangabike"
+        - generic [ref=f2e355]:
+          - img "Bicicletas em beco urbano" [ref=f2e356]
+          - generic [ref=f2e358]: "@jangabike"
+      - generic [ref=f2e363]: Siga @jangabike com 5.600+ seguidores
+    - generic [ref=f2e369]:
+      - generic [ref=f2e370]:
+        - generic [ref=f2e371]: AVALIAÇÕES
+        - heading "QUEM CONFIA, RECOMENDA" [level=2] [ref=f2e373]
+        - generic [ref=f2e374]:
+          - paragraph [ref=f2e376]: "4.3"
+          - generic [ref=f2e389]:
+            - paragraph [ref=f2e390]: 214 avaliações
+            - paragraph [ref=f2e391]: no Google
+      - generic [ref=f2e392]:
+        - generic [ref=f2e393]:
+          - paragraph [ref=f2e408]: "\"Atendimento excelente e preço justo! Comprei minha mountain bike lá e saí com tudo certinho. Recomendo demais.\""
+          - generic [ref=f2e409]:
+            - generic [ref=f2e410]: C
+            - generic [ref=f2e411]:
+              - paragraph [ref=f2e412]: Carlos Eduardo
+              - paragraph [ref=f2e413]: Há 2 semanas · Google
+        - generic [ref=f2e414]:
+          - paragraph [ref=f2e429]: "\"Levei minha bike para revisão e ficou novinha. Os caras entendem muito do que fazem. Variedade enorme de peças.\""
+          - generic [ref=f2e430]:
+            - generic [ref=f2e431]: J
+            - generic [ref=f2e432]:
+              - paragraph [ref=f2e433]: Juliana Santos
+              - paragraph [ref=f2e434]: Há 1 mês · Google
+        - generic [ref=f2e435]:
+          - paragraph [ref=f2e450]: "\"Melhor bicicletaria da região. Sempre tem o que eu preciso e o preço é o melhor de Paulista. Já sou cliente fiel.\""
+          - generic [ref=f2e451]:
+            - generic [ref=f2e452]: P
+            - generic [ref=f2e453]:
+              - paragraph [ref=f2e454]: Pedro Henrique
+              - paragraph [ref=f2e455]: Há 3 semanas · Google
+      - link "Ver todas as avaliações no Google" [ref=f2e457] [cursor=pointer]:
+        - /url: https://maps.app.goo.gl/FcV6Ch9YNLqTCmZJ9
+    - generic [ref=f2e464]:
+      - generic [ref=f2e465]:
+        - generic [ref=f2e466]: CONTATO
+        - heading "VEM FALAR COM A GENTE" [level=2] [ref=f2e468]
+      - generic [ref=f2e469]:
+        - generic [ref=f2e470]:
+          - generic [ref=f2e471]:
+            - generic [ref=f2e472]:
+              - heading "Endereço" [level=3] [ref=f2e478]
+              - paragraph [ref=f2e479]: Av. Dr. Cláudio José Gueiros Leite, 2701 - Janga, Paulista - PE, 53437-000
+            - generic [ref=f2e480]:
+              - heading "Telefone" [level=3] [ref=f2e485]
+              - link "(81) 99901-4382" [ref=f2e486] [cursor=pointer]:
+                - /url: tel:+555581999014382
+            - generic [ref=f2e487]:
+              - heading "Horário" [level=3] [ref=f2e493]
+              - list [ref=f2e494]:
+                - listitem [ref=f2e495]:
+                  - generic [ref=f2e496]: "Segunda:"
+                  - text: Fechado
+                - listitem [ref=f2e497]:
+                  - generic [ref=f2e498]: "Terça a Sexta:"
+                  - text: 08:00 – 18:00
+                - listitem [ref=f2e499]:
+                  - generic [ref=f2e500]: "Sábado:"
+                  - text: 08:00 – 17:00
+                - listitem [ref=f2e501]:
+                  - generic [ref=f2e502]: "Domingo:"
+                  - text: 08:00 – 12:00
+            - generic [ref=f2e503]:
+              - heading "Instagram" [level=3] [ref=f2e509]
+              - link "@jangabike" [ref=f2e510] [cursor=pointer]:
+                - /url: https://www.instagram.com/jangabike
+          - generic [ref=f2e511]:
+            - heading "Envie sua mensagem" [level=3] [ref=f2e512]
+            - generic [ref=f2e513]:
+              - textbox "Seu nome" [ref=f2e514]
+              - textbox "Seu telefone" [ref=f2e515]
+              - textbox "Sua mensagem" [ref=f2e516]
+              - button "Enviar pelo WhatsApp" [ref=f2e517] [cursor=pointer]
+        - generic [ref=f2e521]:
+          - iframe [ref=f2e523]
+          - generic [ref=f2e524]:
+            - link "Chamar no WhatsApp" [ref=f2e525] [cursor=pointer]:
+              - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Janga%20Bike%20e%20gostaria%20de%20falar%20com%20voc%C3%AAs.
+            - link "Como chegar" [ref=f2e528] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/FcV6Ch9YNLqTCmZJ9
+  - contentinfo [ref=f2e531]:
+    - generic [ref=f2e533]:
+      - generic [ref=f2e534]:
+        - generic [ref=f2e535]:
+          - generic [ref=f2e536]:
+            - img "Janga Bike" [ref=f2e537]
+            - generic [ref=f2e538]:
+              - generic [ref=f2e539]: JANGA BIKE
+              - generic [ref=f2e540]: Loja de Bicicleta
+          - paragraph [ref=f2e541]: Preço, Variedade e Qualidade. Sua bicicletaria de confiança no Janga, Paulista-PE. Bikes, peças, acessórios e serviço de manutenção.
+          - generic [ref=f2e542]:
+            - link "WhatsApp" [ref=f2e543] [cursor=pointer]:
+              - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Janga%20Bike.
+            - link "Instagram" [ref=f2e546] [cursor=pointer]:
+              - /url: https://www.instagram.com/jangabike
+            - link "Telefone" [ref=f2e550] [cursor=pointer]:
+              - /url: tel:+555581999014382
+        - generic [ref=f2e553]:
+          - heading "Navegação" [level=4] [ref=f2e554]
+          - list [ref=f2e555]:
+            - listitem [ref=f2e556]:
+              - link "Início" [ref=f2e557] [cursor=pointer]:
+                - /url: "#inicio"
+            - listitem [ref=f2e558]:
+              - link "Produtos" [ref=f2e559] [cursor=pointer]:
+                - /url: "#produtos"
+            - listitem [ref=f2e560]:
+              - link "Serviços" [ref=f2e561] [cursor=pointer]:
+                - /url: "#servicos"
+            - listitem [ref=f2e562]:
+              - link "Sobre" [ref=f2e563] [cursor=pointer]:
+                - /url: "#sobre"
+            - listitem [ref=f2e564]:
+              - link "Avaliações" [ref=f2e565] [cursor=pointer]:
+                - /url: "#avaliacoes"
+            - listitem [ref=f2e566]:
+              - link "Contato" [ref=f2e567] [cursor=pointer]:
+                - /url: "#contato"
+        - generic [ref=f2e568]:
+          - heading "Contato" [level=4] [ref=f2e569]
+          - list [ref=f2e570]:
+            - listitem [ref=f2e571]:
+              - generic [ref=f2e575]: Av. Dr. Cláudio José Gueiros Leite, 2701 - Janga, Paulista - PE, 53437-000
+            - listitem [ref=f2e576]:
+              - link "(81) 99901-4382" [ref=f2e579] [cursor=pointer]:
+                - /url: tel:+555581999014382
+            - listitem [ref=f2e580]:
+              - link "@jangabike" [ref=f2e584] [cursor=pointer]:
+                - /url: https://www.instagram.com/jangabike
+      - generic [ref=f2e585]:
+        - paragraph [ref=f2e586]: © 2026 Janga Bike. Todos os direitos reservados.
+        - paragraph [ref=f2e587]: Feito com para quem ama pedalar
+  - generic [ref=f2e590]:
+    - generic:
+      - generic:
+        - generic: Fale conosco!
+        - button "Fechar"
+    - link "Falar no WhatsApp" [ref=f2e591] [cursor=pointer]:
+      - /url: https://wa.me/5581999014382?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20Janga%20Bike%20e%20gostaria%20de%20falar%20com%20voc%C3%AAs.

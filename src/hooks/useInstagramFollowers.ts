@@ -1,15 +1,18 @@
 import { useEffect, useState } from 'react';
 import { createClient } from '@supabase/supabase-js';
 
-const supabase = createClient(
-  import.meta.env.VITE_SUPABASE_URL,
-  import.meta.env.VITE_SUPABASE_ANON_KEY
-);
+const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
+const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
+const supabase = supabaseUrl && supabaseAnonKey
+  ? createClient(supabaseUrl, supabaseAnonKey)
+  : null;
 
-const EDGE_FUNCTION_URL = `${import.meta.env.VITE_SUPABASE_URL}/functions/v1/instagram-followers`;
+const EDGE_FUNCTION_URL = supabaseUrl
+  ? `${supabaseUrl}/functions/v1/instagram-followers`
+  : null;
 
 const headers = {
-  Authorization: `Bearer ${import.meta.env.VITE_SUPABASE_ANON_KEY}`,
+  Authorization: `Bearer ${supabaseAnonKey ?? ''}`,
   'Content-Type': 'application/json',
 };
 
@@ -19,6 +22,11 @@ export function useInstagramFollowers() {
 
   useEffect(() => {
     async function load() {
+      if (!supabase || !EDGE_FUNCTION_URL) {
+        setLoading(false);
+        return;
+      }
+
       try {
         const { data } = await supabase
           .from('instagram_stats')
